@@ -1,0 +1,25 @@
+.component-wrapper {
+  padding: 20px;
+}
+
+.MuiListItem-button.highlight {
+  background-color: yellow;
+  opacity: .3;
+}
+.MuiListItem-button.highlight:hover{
+  background-color: yellow;
+  opacity: .2;
+}
+.MuiListItem-button span{
+  color: #3f51b5;
+}
+.MuiButton-text.menu-item {
+  color: white;
+  margin: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: none;
+}
+.MuiToolbar-root a{
+  text-decoration: none;
+}
